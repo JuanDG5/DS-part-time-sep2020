@@ -10,5 +10,5 @@ plt.show()
 
 
 plt.plot(x, np.cos(2*x))
-
 plt.show()
+
